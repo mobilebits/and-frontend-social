@@ -24,4 +24,17 @@ proguard/
 
 # Log Files
 *.log
+
+# Android Studio Files
+/.idea/libraries
+/.idea/tasks.xml
+/.idea/datasources.xml
+/.idea/dataSources.ids
 workspace.xml
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
